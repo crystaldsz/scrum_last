@@ -1,0 +1,16 @@
+requests
+fastapi
+uvicorn
+google-generativeai
+streamlit
+python-dotenv
+jira
+pandas
+pymongo
+dnspython
+pinecone-client
+sentence-transformers
+torch
+pinecone
+pydantic
+jinja2
