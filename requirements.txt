@@ -9,7 +9,7 @@ pandas
 pymongo
 dnspython
 pinecone-client
-sentence-transformers
+sentence-transformers ==3.4.1
 torch
 pinecone
 pydantic
